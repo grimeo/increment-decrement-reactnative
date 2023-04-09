@@ -1,5 +1,5 @@
 export default {
-    primary: 'gray',
-    secondary: 'lightgray',
-    fontColor: 'whitesmoke'
-}
+  primary: "gray",
+  background: "whitesmoke",
+  fontColor: "#666",
+};
